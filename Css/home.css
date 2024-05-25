@@ -1,0 +1,238 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+.banner {
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.2)), url(/image/home-banner.jpg);
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+}
+
+.logo {
+    width: 12%;
+}
+.anouncemt {
+    font-family: "geomanist-bold-webfont";
+
+}
+.someone
+{
+    
+    transform: translate(-50%,-50%);
+    top: 35%;
+    left: 44%;
+    position: relative;
+    
+}
+.btn1
+{
+    border:none;
+    background-color:#F4E967;
+    padding: 15px 30px;
+    font-weight: bold;
+    transition: all 0.2s;
+}
+.btn1:hover
+{
+   background-color: black;
+   color: #F4E967;
+}
+
+.banner2
+{
+    position:relative;
+
+}
+.someone1
+{
+    transform: translate(-50%,-50%);
+    top: 57%;
+    left: 50%;
+    position:absolute;    
+}
+.navbar-toggler:focus {
+    box-shadow: none;
+}
+.under-link {
+    display: inline-block;
+    position: relative; 
+    color: black; 
+  }
+.under-link:after {
+content: ''; 
+position: absolute;
+width: 100%; 
+transform: scaleX(0); 
+height: 2px; 
+bottom: 0; 
+left: 0; 
+background-color: black; 
+transform-origin: bottom right; 
+transition: transform 0.25s ease-out;
+}
+
+.under-link:hover:after {
+  transform: scaleX(1);
+  transform-origin: bottom left; 
+}  
+html,
+body {
+  position: relative;
+  height: 100%;
+}
+.swiper-pagination::after
+{
+  padding: 0px 10px;
+}
+body {
+  background: #eee;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+.swiper {
+  width: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.pro-1
+{
+    rotate:-90deg;
+    font-size: 50px;
+    font-family: 'geomanist-ultra-webfont' !important;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+.slider-image1
+{
+    transition: all 0.5s;
+}
+.slider-image1:hover
+{
+    scale: 1.2;rotate:0;
+}
+.pro-2
+{
+  font-size: 50px;
+  rotate:0deg;
+  font-family: 'geomanist-ultra-webfont' !important;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+@media (max-width:768px) /* For mobile devices */
+{
+  .pro-1
+  {
+      rotate:0deg;
+      font-size: 32px;
+      font-family: 'geomanist-ultra-webfont' !important;
+      text-rendering: optimizeLegibility;
+      -webkit-font-smoothing: antialiased;
+  }
+.pro-2
+{
+  font-size: 20px;
+  rotate:0deg;
+}
+}
+
+@media (min-width:769px) and (max-width:2000px)
+{
+  .pro-2
+{
+  font-size: 40px;
+      font-family: 'geomanist-ultra-webfont' !important;
+      text-rendering: optimizeLegibility;
+      -webkit-font-smoothing: antialiased;
+  rotate:-90deg;
+}
+}
+
+
+.submit1
+{
+    border: none;
+    height: 40px;
+    background-color: black;
+    color: #F4E967;
+}
+@media (min-width:769px) and (max-width:2000px)
+{
+  iframe
+{
+  width: 100%;
+  height: 1000px; 
+}
+}
+@media (max-width:768px) /* For mobile devices */
+{
+  iframe
+{
+  width: 100%;
+ 
+}
+}
+.offer-alert {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1000;
+  width: 400px;
+  padding: 15px;
+  height:30%;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  background-color: #F4E967;
+  border-color: #d6e9c6;
+  color: #3e8e41;
+  display: none;
+}
+
+.offer-alert-content {
+  text-align: center;
+}
+
+.close-btn {
+  background-color: transparent;
+  border: none;
+  color: #000;
+  font-size: 21px;
+  font-weight: bold;
+  line-height: 1;
+  text-shadow: 0 1px 0 #fff;
+  filter: alpha(opacity=20);
+  opacity:.2;
+  cursor: pointer;
+  
+}
+
+.close-btn:hover {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+  filter: alpha(opacity=50);
+  opacity:.5;
+}

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+<script>
+class Shape {
+    constructor(color) {
+        this.color = color;
+    }
+    getColor() {
+        return this.color;
+    }
+}
+
+class Circle extends Shape {
+    constructor(color, radius) {
+        super(color);
+        this.radius = radius;
+    }
+}
+
+class ColoredCircle extends Circle {
+    constructor(color, radius) {
+        super(color, radius);
+    }
+}
+
+let coloredCircle = new ColoredCircle('blue', 5);
+console.log(coloredCircle.getColor());
+
+// here coloredcircle constucture take (color,radius)
+// it take parameter but called funcation of shape class
+// there fore reason coloedcircle extends circle class extend shap so it automatically called get color() funcation
+
+
+</script>
+</html>

@@ -1,0 +1,92 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+.banner {
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.2)), url(/image/home-banner.jpg);
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: absolute;
+}
+
+.logo {
+    width: 12%;
+}
+.anouncemt {
+    font-family: "geomanist-bold-webfont";
+
+}
+.someone
+{
+    
+    transform: translate(-50%,-50%);
+    top: 35%;
+    left: 44%;
+    position: relative;
+    
+}
+.btn1
+{
+    border:none;
+    background-color:#F4E967;
+    padding: 15px 30px;
+    font-weight: bold;
+    transition: all 0.2s;
+}
+.btn1:hover
+{
+   background-color: black;
+   color: #F4E967;
+}
+
+.under-link {
+  display: inline-block;
+  position: relative; 
+  color: black; 
+}
+
+.under-link:after {
+  content: ''; 
+  position: absolute;
+  width: 100%; 
+  transform: scaleX(0); 
+  height: 2px; 
+  bottom: 0; 
+  left: 0; 
+  background-color: black; 
+  transform-origin: bottom right; 
+  transition: transform 0.25s ease-out;
+}
+
+.under-link:hover:after {
+    transform: scaleX(1);
+    transform-origin: bottom left; 
+}  
+.submit
+{
+    width: 40%;
+    height: 60px;
+    background-color: #F4E967;
+    font-weight: bold;
+    border: none;
+}
+.input-email
+{
+    width: 100%;
+    padding-left: 10px;
+}
+.submit1
+{
+    border: none;
+    height: 40px;
+    background-color: black;
+    color: #F4E967;
+}
+
+
+

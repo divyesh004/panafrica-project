@@ -1,0 +1,588 @@
+{
+  "ATLAS": [
+    {
+      "id": "1",
+      "tittle": "Atlas-Vagues",
+      "price": "9900",
+      "catagory": "ATLAS",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/ATL-406ATLAS-TCHATCHA_01_ee43e74c-d47c-4bd7-8096-9779388f6530.jpg?v=1709302008&width=400",
+        "https://panafrica-store.com/cdn/shop/files/ATL-406ATLAS-TCHATCHA_03.jpg?v=1709302008&width=400",
+        "https://panafrica-store.com/cdn/shop/files/ATL-406ATLAS-TCHATCHA_02.jpg?v=1709302008&width=800"
+      ]
+    },
+    {
+      "id": "2",
+      "tittle": "Atlas-Hirondelle",
+      "price": "9800",
+      "catagory": "ATLAS",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/ATL-403ATLAS-HIRONDELLE_01.jpg?v=1709301551&width=400",
+        "https://panafrica-store.com/cdn/shop/files/ATL-403ATLAS-HIRONDELLE_03.jpg?v=1709301551&width=1800",
+        "https://panafrica-store.com/cdn/shop/files/ATL-403ATLAS-HIRONDELLE_02.jpg?v=1709301551&width=800"
+      ]
+    },
+    {
+      "id": "3",
+      "tittle": "Atlas-Feuilles",
+      "price": "9700",
+      "catagory": "ATLAS",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/ATL-404ATLAS-FEUILLES_01.jpg?v=1709740353&width=400",
+        "https://panafrica-store.com/cdn/shop/files/ATL-404ATLAS-FEUILLES_03.jpg?v=1709740352&width=400",
+        "https://panafrica-store.com/cdn/shop/files/ATL-405ATLAS-OEIL_02.jpg?v=1709301955&width=800"
+      ]
+    },
+    {
+      "id": "4",
+      "tittle": "Atlas-Roues",
+      "price": "6800",
+      "catagory": "ATLAS",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/ATL-405ATLAS-OEIL_01_7d76acc2-eb7e-4426-acbc-82990f01df08.jpg?v=1709301955&width=400",
+        "https://panafrica-store.com/cdn/shop/files/ATL-405ATLAS-OEIL_03.jpg?v=1709301955&width=400",
+        "https://panafrica-store.com/cdn/shop/files/ATL-404ATLAS-FEUILLES_02.jpg?v=1709740353&width=800"
+      ]
+    },
+    {
+      "id": "5",
+      "tittle": "Atlas-Feuilles",
+      "price": "5500",
+      "catagory": "ATLAS",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/ATL-402ATLAS-CONGRES_01.jpg?v=1709301618&width=400",
+        "https://panafrica-store.com/cdn/shop/files/ATL-402ATLAS-CONGRES_03.jpg?v=1709301618&width=400",
+        "https://panafrica-store.com/cdn/shop/files/ATL-402ATLAS-CONGRES_02.jpg?v=1709301618&width=800"
+      ]
+    },
+    {
+      "id": "A1",
+      "tittle": "Arusha-Tournee",
+      "price": "900",
+      "catagory": "ARUSHA",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/RUN-404ARUSHA-CIEL_01.jpg?v=1710754480&width=400",
+        "https://panafrica-store.com/cdn/shop/files/RUN-404ARUSHA-CIEL_03.jpg?v=1710754483&width=400",
+        "https://panafrica-store.com/cdn/shop/files/RUN-404ARUSHA-CIEL_02.jpg?v=1710754483&width=800"
+      ]
+    },
+    {
+      "id": "A2",
+      "tittle": "Arusha-Ébène",
+      "price": "1800",
+      "catagory": "ARUSHA",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/RUN-05ARUSHA-EBENE_01.jpg?v=1700745519&width=400",
+        "https://panafrica-store.com/cdn/shop/files/RUN-05ARUSHA-EBENE_02.jpg?v=1700745519&width=400",
+        "https://panafrica-store.com/cdn/shop/files/RUN-05ARUSHA-EBENE_03.jpg?v=1700745520&width=800"
+      ]
+    },
+    {
+      "id": "A3",
+      "tittle": "Arusha-Océan",
+      "price": "1900",
+      "catagory": "ARUSHA",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/RUN-22ARUSHA-OCEAN_01.jpg?v=1700749752&width=400",
+        "https://panafrica-store.com/cdn/shop/files/RUN-22ARUSHA-OCEAN_02.jpg?v=1700749753&width=400",
+        "https://panafrica-store.com/cdn/shop/files/RUN-22ARUSHA-OCEAN_03.jpg?v=1700749752&width=800"
+      ]
+    },
+    {
+      "id": "A4",
+      "tittle": "Arusha-Ivoire",
+      "price": "18900",
+      "catagory": "ARUSHA",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/RUN-06ARUSHA-IVOIRE_01.jpg?v=1700746197&width=400",
+        "https://panafrica-store.com/cdn/shop/files/RUN-06ARUSHA-IVOIRE_02.jpg?v=1700746199&width=400",
+        "https://panafrica-store.com/cdn/shop/files/RUN-06ARUSHA-IVOIRE_03.jpg?v=1700746198&width=800"
+      ]
+    },
+    {
+      "id": "A5",
+      "tittle": "Arusha-Poudré",
+      "price": "19900",
+      "catagory": "ARUSHA",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/RUN-405ARUSHA-POUDRE_01.jpg?v=1709224151&width=400",
+        "https://panafrica-store.com/cdn/shop/files/RUN-405ARUSHA-POUDRE_03.jpg?v=1709299929&width=400",
+        "https://panafrica-store.com/cdn/shop/files/RUN-405ARUSHA-POUDRE_02.jpg?v=1709299929&width=800"
+      ]
+    },
+    {
+      "id": "A6",
+      "tittle": "Arusha-Niagara",
+      "price": "10900",
+      "catagory": "ARUSHA",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/RUN-37ARUSHA-NIAGARA_01.jpg?v=1700748840&width=400",
+        "https://panafrica-store.com/cdn/shop/files/RUN-37ARUSHA-NIAGARA_02.jpg?v=1700748840&width=400",
+        "https://panafrica-store.com/cdn/shop/files/RUN-37ARUSHA-NIAGARA_03.jpg?v=1700748839&width=800"
+      ]
+    },
+    {
+      "id": "A7",
+      "tittle": "Arusha-Cobalt",
+      "price": "19200",
+      "catagory": "ARUSHA",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/RUN-407ARUSHA-COBALT_01.jpg?v=1709738964&width=400",
+        "https://panafrica-store.com/cdn/shop/files/RUN-407ARUSHA-COBALT_03.jpg?v=1709738964&width=400",
+        "https://panafrica-store.com/cdn/shop/files/RUN-407ARUSHA-COBALT_02.jpg?v=1709738964&width=800"
+      ]
+    },
+    {
+      "id": "A8",
+      "tittle": "Arusha-Grenadine",
+      "price": "12900",
+      "catagory": "ARUSHA",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/RUN-401ARUSHA-GRENADINE_01.jpg?v=1709223905&width=400",
+        "https://panafrica-store.com/cdn/shop/files/RUN-401ARUSHA-GRENADINE_03.jpg?v=1709300274&width=400",
+        "https://panafrica-store.com/cdn/shop/files/RUN-401ARUSHA-GRENADINE_02.jpg?v=1709300274&width=800"
+      ]
+    },
+    {
+      "id": "A9",
+      "tittle": "Arusha-Beige",
+      "price": "11900",
+      "catagory": "ARUSHA",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/RUN-408ARUSHA-BEIGE_01.jpg?v=1709224282&width=400",
+        "https://panafrica-store.com/cdn/shop/files/RUN-408ARUSHA-BEIGE_03.jpg?v=1709224287&width=400",
+        "https://panafrica-store.com/cdn/shop/files/RUN-408ARUSHA-BEIGE_02.jpg?v=1709224287&width=800"
+      ]
+    },
+    {
+      "id": "A10",
+      "tittle": "Arusha-Bonbon",
+      "price": "16900",
+      "catagory": "ARUSHA",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/RUN-403ARUSHA-BONBON_01.jpg?v=1709224022&width=400",
+        "https://panafrica-store.com/cdn/shop/files/RUN-403ARUSHA-BONBON_03.jpg?v=1709224026&width=400",
+        "https://panafrica-store.com/cdn/shop/files/RUN-403ARUSHA-BONBON_02.jpg?v=1709224026&width=800"
+      ]
+    },
+    {
+      "id": "A11",
+      "tittle": "Arusha-Taupe",
+      "price": "13900",
+      "catagory": "ARUSHA",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/RUN-409ARUSHA-MOTTY_01_365439da-4326-450e-ae0e-3fedb7245e83.jpg?v=1714036148&width=400",
+        "https://panafrica-store.com/cdn/shop/files/RUN-409ARUSHA-MOTTY_03.jpg?v=1714036148&width=400",
+        "https://panafrica-store.com/cdn/shop/files/RUN-409ARUSHA-MOTTY_02.jpg?v=1714036148&width=800"
+      ]
+    },
+    {
+      "id": "A12",
+      "tittle": "Arusha-pastel",
+      "price": "16900",
+      "catagory": "ARUSHA",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/RUN-410ARUSHA-PASTEL_01_afa70f6f-fdb5-4a22-8edf-c62a91007e6d.jpg?v=1707320377&width=400",
+        "https://panafrica-store.com/cdn/shop/files/RUN-410ARUSHA-PASTEL_03.jpg?v=1707320377&width=400",
+        "https://panafrica-store.com/cdn/shop/files/RUN-410ARUSHA-PASTEL_02.jpg?v=1707320377&width=800"
+      ]
+    },
+    {
+      "id": "A13",
+      "tittle": "Arusha-Corail",
+      "price": "18900",
+      "catagory": "ARUSHA",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/RUN-18ARUSHA-CORAIL_01.jpg?v=1700748065&width=400",
+        "https://panafrica-store.com/cdn/shop/files/RUN-18ARUSHA-CORAIL_02.jpg?v=1700748065&width=400",
+        "https://panafrica-store.com/cdn/shop/files/RUN-18ARUSHA-CORAIL_03.jpg?v=1700748065&width=800"
+      ]
+    },
+    {
+      "id": "A14",
+      "tittle": "Arusha-Sable",
+      "price": "15900",
+      "catagory": "ARUSHA",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/RUN-02ARUSHA-SABLE_01_66e91021-c0c4-4772-9e37-fca5defe8213.jpg?v=1709029396&width=400",
+        "https://panafrica-store.com/cdn/shop/files/RUN-02ARUSHA-SABLE_03.jpg?v=1710336283&width=400",
+        "https://panafrica-store.com/cdn/shop/files/RUN-02ARUSHA-SABLE_02.jpg?v=1710336283&width=800"
+      ]
+    },
+    {
+      "id": "A15",
+      "tittle": "Kasaï-marine",
+      "price": "12900",
+      "catagory": "KASAI",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/KA-11KASAI-MARINE_01.jpg?v=1700844462&width=400",
+        "https://panafrica-store.com/cdn/shop/files/KA-11KASAI-MARINE_03.jpg?v=1703092702&width=400",
+        "https://panafrica-store.com/cdn/shop/files/KA-11KASAI-MARINE_02.jpg?v=1703092702&width=800"
+      ]
+    },
+    {
+      "id": "A16",
+      "tittle": "Kasaï-pastel",
+      "price": "13000",
+      "catagory": "KASAI",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/KA-05KASAI-PASTEL_01.jpg?v=1700844141&width=400",
+        "https://panafrica-store.com/cdn/shop/files/KA-05KASAI-PASTEL_02.jpg?v=1700844142&width=400",
+        "https://panafrica-store.com/cdn/shop/files/KA-05KASAI-PASTEL_03.jpg?v=1700844141&width=800"
+      ]
+    },
+    {
+      "id": "A17",
+      "tittle": "Kasaï-soleil",
+      "price": "12100",
+      "catagory": "KASAI",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/KA-01KASAI-SOLEIL_01.jpg?v=1700843803&width=400",
+        "https://panafrica-store.com/cdn/shop/files/KA-01KASAI-SOLEIL_03.jpg?v=1703092776&width=400",
+        "https://panafrica-store.com/cdn/shop/files/KA-01KASAI-SOLEIL_02.jpg?v=1703092776&width=800"
+      ]
+    },
+    {
+      "id": "A18",
+      "tittle": "Kasaï-Bleu",
+      "price": "12200",
+      "catagory": "KASAI",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/KAN-402KASAI-BLEU_01.jpg?v=1709300872&width=400",
+        "https://panafrica-store.com/cdn/shop/files/KAN-402KASAI-BLEU_03.jpg?v=1709300872&width=400",
+        "https://panafrica-store.com/cdn/shop/files/KAN-402KASAI-BLEU_02.jpg?v=1709300872&width=800"
+      ]
+    },
+    {
+      "id": "A19",
+      "tittle": "Kasaï-Framboise",
+      "price": "12300",
+      "catagory": "KASAI",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/KAN-401KASAI-FRAMBOISE_01.jpg?v=1709300965&width=400",
+        "https://panafrica-store.com/cdn/shop/files/KAN-401KASAI-FRAMBOISE_03.jpg?v=1709300965&width=400",
+        "https://panafrica-store.com/cdn/shop/files/KAN-401KASAI-FRAMBOISE_02.jpg?v=1709300965&width=800"
+      ]
+    },
+    {
+      "id": "A20",
+      "tittle": "Kasaï-Kaki",
+      "price": "12400",
+      "catagory": "KASAI",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/KAN-25KASAI-KAKI_01.jpg?v=1701094005&width=400",
+        "https://panafrica-store.com/cdn/shop/files/KAN-25KASAI-KAKI_02.jpg?v=1701094006&width=400",
+        "https://panafrica-store.com/cdn/shop/files/KAN-25KASAI-KAKI_03.jpg?v=1701094006&width=800"
+      ]
+    },
+    {
+      "id": "A21",
+      "tittle": "Kasaï-Niagara",
+      "price": "12500",
+      "catagory": "KASAI",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/KAN-26_KASAI-NIAGARA_01.jpg?v=1704192833&width=400",
+        "https://panafrica-store.com/cdn/shop/files/KAN-26_KASAI-NIAGARA_02.jpg?v=1704192833&width=400",
+        "https://panafrica-store.com/cdn/shop/files/KAN-26_KASAI-NIAGARA_03.jpg?v=1704192833&width=800"
+      ]
+    },
+    {
+      "id": "A21",
+      "tittle": "Kasaï-Beige",
+      "price": "12600",
+      "catagory": "KASAI",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/KA-22KASAI-BEIGE_01.jpg?v=1701101590&width=400",
+        "https://panafrica-store.com/cdn/shop/files/KA-22KASAI-BEIGE_02.jpg?v=1701101590&width=400",
+        "https://panafrica-store.com/cdn/shop/files/KA-22KASAI-BEIGE_03.jpg?v=1701101590&width=800"
+      ]
+    },
+    {
+      "id": "A22",
+      "tittle": "Bini-fleurs",
+      "price": "9500",
+      "catagory": "BINI",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/BI-401BINI-FLEURS_01.jpg?v=1709225336&width=400",
+        "https://panafrica-store.com/cdn/shop/files/BI-401BINI-FLEURS_03.jpg?v=1709225454&width=400",
+        "https://panafrica-store.com/cdn/shop/files/BI-401BINI-FLEURS_02.jpg?v=1709225454&width=800"
+      ]
+    },
+    {
+      "id": "A23",
+      "tittle": "Bini-Vagues",
+      "price": "5000",
+      "catagory": "BINI",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/BI-401BINI-VAGUES_01.jpg?v=1709225468&width=400",
+        "https://panafrica-store.com/cdn/shop/files/BI-401BINI-VAGUES_03.jpg?v=1709225471&width=400",
+        "https://panafrica-store.com/cdn/shop/files/BI-401BINI-VAGUES_02.jpg?v=1709225471&width=800"
+      ]
+    },
+    {
+      "id": "A24",
+      "tittle": "Bini-Oiseaux",
+      "price": "10000",
+      "catagory": "BINI",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/BI-403BINI-OISEAUX_01.jpg?v=1709742174&width=400",
+        "https://panafrica-store.com/cdn/shop/files/BI-403BINI-OISEAUX_03.jpg?v=1709742174&width=400",
+        "https://panafrica-store.com/cdn/shop/files/BI-403BINI-OISEAUX_02.jpg?v=1709742174&width=800"
+      ]
+    },
+    {
+      "id": "A25",
+      "tittle": "Accra",
+      "price": "20000",
+      "catagory": "L'ICONIQUE",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/O-403ACCRA_01.jpg?v=1709299119&width=1800",
+        "https://panafrica-store.com/cdn/shop/files/O-403ACCRA_03.jpg?v=1709299119&width=1800",
+        "https://panafrica-store.com/cdn/shop/files/O-403ACCRA_02.jpg?v=1709299119&width=800"
+      ]
+    },
+    {
+      "id": "A26",
+      "tittle": "Tunis",
+      "price": "25000",
+      "catagory": "L'ICONIQUE",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/O-405TUNIS_01.jpg?v=1709288779&width=400",
+        "https://panafrica-store.com/cdn/shop/files/O-405TUNIS_03.jpg?v=1709288779&width=400",
+        "https://panafrica-store.com/cdn/shop/files/O-405TUNIS_02.jpg?v=1709288779&width=800"
+      ]
+    },
+    {
+      "id": "A27",
+      "tittle": "Abidjan",
+      "price": "89000",
+      "catagory": "L'ICONIQUE",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/A-401ABIDJAN_01.jpg?v=1709298810&width=400",
+        "https://panafrica-store.com/cdn/shop/files/A-401ABIDJAN_03.jpg?v=1709298810&width=400",
+        "https://panafrica-store.com/cdn/shop/files/A-401ABIDJAN_02.jpg?v=1709298810&width=800"
+      ]
+    },
+    {
+      "id": "A28",
+      "tittle": "Pretoria",
+      "price": "86000",
+      "catagory": "L'ICONIQUE",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/O-404PRETORIA_01.jpg?v=1709297926&width=400",
+        "https://panafrica-store.com/cdn/shop/files/O-404PRETORIA_03.jpg?v=1709297926&width=400",
+        "https://panafrica-store.com/cdn/shop/files/O-404PRETORIA_02.jpg?v=1709297926&width=800"
+      ]
+    },
+    {
+      "id": "A29",
+      "tittle": "Porto-Novo",
+      "price": "87000",
+      "catagory": "L'ICONIQUE",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/O-402PORTO-NOVO_01.jpg?v=1709298641&width=400",
+        "https://panafrica-store.com/cdn/shop/files/O-402PORTO-NOVO_03.jpg?v=1709298641&width=400",
+        "https://panafrica-store.com/cdn/shop/files/O-402PORTO-NOVO_02.jpg?v=1709298641&width=800"
+      ]
+    },
+    {
+      "id": "A30",
+      "tittle": "Kigali",
+      "price": "89000",
+      "catagory": "L'ICONIQUE",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/O-406KIGALI_01.jpg?v=1709290059&width=400",
+        "https://panafrica-store.com/cdn/shop/files/O-406KIGALI_03.jpg?v=1709290059&width=400",
+        "https://panafrica-store.com/cdn/shop/files/O-406KIGALI_02.jpg?v=1709290059&width=800"
+      ]
+    },
+    {
+      "id": "A31",
+      "tittle": "Bamako",
+      "price": "54000",
+      "catagory": "L'ICONIQUE",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/O-01BAMAKO_01.jpg?v=1700651369&width=400",
+        "https://panafrica-store.com/cdn/shop/files/O-01BAMAKO_04.jpg?v=1700651370&width=400",
+        "https://panafrica-store.com/cdn/shop/files/O-01BAMAKO_02.jpg?v=1700651370&width=800"
+      ]
+    },
+    {
+      "id": "A32",
+      "tittle": "Sahara-Safran",
+      "price": "11500",
+      "catagory": "SAHARA",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/SAH-404SAHARA-SAFRAN_01_2.jpg?v=1714142071&width=1800",
+        "https://panafrica-store.com/cdn/shop/files/SAH-404SAHARA-SAFRAN_03_2.jpg?v=1714142072&width=1800",
+        "https://panafrica-store.com/cdn/shop/files/SAH-404SAHARA-SAFRAN_02_2.jpg?v=1714142072&width=800"
+      ]
+    },
+    {
+      "id": "A33",
+      "tittle": "Sahara-Perle",
+      "price": "119000",
+      "catagory": "SAHARA",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/SAH-402SAHARA-PERLE_01.jpg?v=1711384788&width=400",
+        "https://panafrica-store.com/cdn/shop/files/SAH-402SAHARA-PERLE_03.jpg?v=1711384791&width=400",
+        "https://panafrica-store.com/cdn/shop/files/SAH-402SAHARA-PERLE_02.jpg?v=1711384791&width=800"
+      ]
+    },
+    {
+      "id": "A34",
+      "tittle": "Sahara-Beige",
+      "price": "115000",
+      "catagory": "SAHARA",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/SAH-403SAHARA-BEIGE_01.jpg?v=1711384707&width=400",
+        "https://panafrica-store.com/cdn/shop/files/SAH-403SAHARA-BEIGE_03.jpg?v=1711384710&width=400",
+        "https://panafrica-store.com/cdn/shop/files/SAH-403SAHARA-BEIGE_02.jpg?v=1711384710&width=800"
+      ]
+    },
+    {
+      "id": "A35",
+      "tittle": "Sahara-Bonbon",
+      "price": "23000",
+      "catagory": "SAHARA",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/SAH-401SAHARA-BONBON_01.jpg?v=1711384608&width=400",
+        "https://panafrica-store.com/cdn/shop/files/SAH-401SAHARA-BONBON_03.jpg?v=1711384610&width=400",
+        "https://panafrica-store.com/cdn/shop/files/SAH-401SAHARA-BONBON_02.jpg?v=1711384610&width=800"
+      ]
+    },
+    {
+      "id": "A36",
+      "tittle": "Sahara-Sable",
+      "price": "45000",
+      "catagory": "SAHARA",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/SAH-01SAHARA-SABLE_01.jpg?v=1706114153&width=400",
+        "https://panafrica-store.com/cdn/shop/files/SAH-01SAHARA-SABLE_04.jpg?v=1706175381&width=400",
+        "https://panafrica-store.com/cdn/shop/files/SAH-01SAHARA-SABLE_03.jpg?v=1706175381&width=800"
+      ]
+    },
+    {
+      "id": "A37",
+      "tittle": "Sahara-Bronze",
+      "price": "67890",
+      "catagory": "SAHARA",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/SAH-04SAHARA-BRONZE_01.jpg?v=1706172637&width=400",
+        "https://panafrica-store.com/cdn/shop/files/SAH-04SAHARA-BRONZE_04.jpg?v=1706172637&width=400",
+        "https://panafrica-store.com/cdn/shop/files/SAH-04SAHARA-BRONZE_04_4a89c3d4-7bb6-43b7-944e-5a6f49a574e7.jpg?v=1706173330&width=800"
+      ]
+    },
+    {
+      "id": "A38",
+      "tittle": "Sahara-Rose",
+      "price": "32000",
+      "catagory": "SAHARA",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/SAH-03SAHARA-ROSE_01.jpg?v=1706114594&width=400",
+        "https://panafrica-store.com/cdn/shop/files/SAH-03SAHARA-ROSE_04.jpg?v=1706114594&width=400",
+        "https://panafrica-store.com/cdn/shop/files/SAH-03SAHARA-ROSE_03.jpg?v=1706114996&width=800"
+      ]
+    },
+    {
+      "id": "A39",
+      "tittle": "Akanda-Hirondelle",
+      "price": "159000",
+      "catagory": "AKANDA",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/AK-404AKANDA-HIRONDELLE_01.jpg?v=1711461575&width=1400",
+        "https://panafrica-store.com/cdn/shop/files/AK-404AKANDA-HIRONDELLE_04.jpg?v=1711461579&width=1400",
+        "https://panafrica-store.com/cdn/shop/files/AK-404AKANDA-HIRONDELLE_02.jpg?v=1711461579&width=800"
+      ]
+    },
+    {
+      "id": "A40",
+      "tittle": "Akanda-Jade",
+      "price": "32093",
+      "catagory": "AKANDA",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/AK-405AKANDA-JADE_01.jpg?v=1711471341&width=400",
+        "https://panafrica-store.com/cdn/shop/files/AK-405AKANDA-JADE_04.jpg?v=1711471347&width=400",
+        "https://panafrica-store.com/cdn/shop/files/AK-405AKANDA-JADE_02.jpg?v=1711471347&width=800"
+      ]
+    },
+    {
+      "id": "A41",
+      "tittle": "Akanda-Vagues",
+      "price": "12340",
+      "catagory": "AKANDA",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/AK-402AKANDA-VAGUES_01.jpg?v=1711445967&width=400",
+        "https://panafrica-store.com/cdn/shop/files/AK-402AKANDA-VAGUES_04.jpg?v=1711445970&width=400",
+        "https://panafrica-store.com/cdn/shop/files/AK-402AKANDA-VAGUES_02.jpg?v=1711445970&width=800"
+      ]
+    },
+    {
+      "id": "A42",
+      "tittle": "Akanda-Safran",
+      "price": "34500",
+      "catagory": "AKANDA",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/AK-403AKANDA-SAFRAN_01.jpg?v=1711448536&width=400",
+        "https://panafrica-store.com/cdn/shop/files/AK-403AKANDA-SAFRAN_04.jpg?v=1711448643&width=400",
+        "https://panafrica-store.com/cdn/shop/files/AK-403AKANDA-SAFRAN_02.jpg?v=1711448643&width=800"
+      ]
+    },
+    {
+      "id": "A43",
+      "tittle": "Akanda-Feuilles",
+      "price": "45600",
+      "catagory": "AKANDA",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/AK-401AKANDA-FEUILLES_01.jpg?v=1712910505&width=400",
+        "https://panafrica-store.com/cdn/shop/files/AK-401AKANDA-FEUILLES_04.jpg?v=1712910508&width=400",
+        "https://panafrica-store.com/cdn/shop/files/AK-401AKANDA-FEUILLES_01.jpg?v=1712910505&width=800"
+      ]
+    },
+    {
+      "id": "A44",
+      "tittle": "Akanda-Fleurs",
+      "price": "20500",
+      "catagory": "AKANDA",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/AK-05AKANDA-FLEURS_01.jpg?v=1700756183&width=400",
+        "https://panafrica-store.com/cdn/shop/files/AK-05AKANDA-FLEURS_02.jpg?v=1700756184&width=400",
+        "https://panafrica-store.com/cdn/shop/files/AK-05AKANDA-FLEURS_03.jpg?v=1700756184&width=800"
+      ]
+    },
+    {
+      "id": "A45",
+      "tittle": "Akanda-Paon",
+      "price": "23400",
+      "catagory": "AKANDA",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/AK-11AKANDA-PAON_01.jpg?v=1700757654&width=400",
+        "https://panafrica-store.com/cdn/shop/files/AK-11AKANDA-PAON_02.jpg?v=1700757653&width=400",
+        "https://panafrica-store.com/cdn/shop/files/AK-11AKANDA-PAON_03.jpg?v=1700757654&width=800"
+      ]
+    },
+    {
+      "id": "A46",
+      "tittle": "Akanda-Gombo",
+      "price": "31200",
+      "catagory": "AKANDA",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/AK-01AKANDA-GOMBO_01.jpg?v=1700755671&width=400",
+        "https://panafrica-store.com/cdn/shop/files/AK-01AKANDA-GOMBO_02.jpg?v=1700755671&width=400",
+        "https://panafrica-store.com/cdn/shop/files/AK-01AKANDA-GOMBO_03.jpg?v=1700755670&width=800"
+      ]
+    },
+    {
+      "id": "A47",
+      "tittle": "Akanda-Oiseau",
+      "price": "32600",
+      "catagory": "AKANDA",
+      "image": [
+        "https://panafrica-store.com/cdn/shop/files/AK-09AKANDA-OISEAU_01.jpg?v=1700759219&width=400",
+        "https://panafrica-store.com/cdn/shop/files/AK-09AKANDA-OISEAU_02.jpg?v=1700759220&width=400",
+        "https://panafrica-store.com/cdn/shop/files/AK-09AKANDA-OISEAU_03.jpg?v=1700759220&width=800"
+      ]
+    }
+  ],
+  "cartpage": []
+}
